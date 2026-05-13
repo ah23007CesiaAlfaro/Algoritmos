@@ -1,3 +1,3 @@
-# Algoritmos
-Algoritmos de BUSQUEDA
-Algoritmos de ORDENACION
+
+#Algoritmos de BUSQUEDA
+#Algoritmos de ORDENACION
